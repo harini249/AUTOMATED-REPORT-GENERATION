@@ -25,3 +25,10 @@ Pandas
 Matplotlib
 Seaborn
 FPDF
+
+
+
+
+
+
+OUTPUT :   [social_media_report.pdf](https://github.com/user-attachments/files/18453280/social_media_report.pdf)
